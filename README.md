@@ -64,7 +64,7 @@
 - [Компоненты Bootstrap для Plotly](https://dash-bootstrap-components.opensource.faculty.ai/docs/quickstart/)
 
 ## Скриншоты приложения
-![Скриншот 1](screenshot1.png)
+![Скриншот 1](screenshots/Screenshot1.png)
 
 
 
